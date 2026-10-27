@@ -4,14 +4,11 @@
 
 **Tool:** Claude (Anthropic), used through claude.ai on October 26, 2026.
 
-**Full conversation transcript (shareable link):** PASTE_SHARE_LINK_HERE
+**Full conversation transcript (shareable link):** https://claude.ai/share/2225c724-06a4-4ca5-8331-f912ab8128ff
 
 The link above opens the complete conversation, including every prompt I wrote and every response Claude gave. The same conversation was used for Questions 1, 2 and 3. Claude was **not** used for Question 4.
 
-**Prompts I gave:**
 
-1. I uploaded the midterm exam document (no text).
-2. "whats needed to just do questions that are ai able"
 
 **What Claude did for this question and how it helped:**
 
